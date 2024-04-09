@@ -1,0 +1,5 @@
+[name:Sir Lancelot, bonus:3, roll:18]: (2.922, 2.54)
+[name:very slow, bonus:-2, roll:14]: (1.671, 1.672)
+[name:very slow 2, bonus:-2, roll:6]: (1.647, 1.683)
+[name:very slow 3, bonus:-2, roll:15]: (1.539, 1.628)
+[name:average joe, bonus:0, roll:3]: (2.221, 2.225)

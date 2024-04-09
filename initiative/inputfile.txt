@@ -1,0 +1,6 @@
+1000
+Sir Lancelot, 3
+very slow, -2
+very slow 2, -2
+very slow 3, -2
+average joe, 0
